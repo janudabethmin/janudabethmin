@@ -1,18 +1,12 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janudabethmin/janudabethmin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janudabethmin/janudabethmin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janudabethmin/janudabethmin/output/github-contribution-grid-snake.svg">
+</picture>
 
-```yaml
-apiVersion: v24
-kind: Human
-metadata:
-  name: Januda Bethmin
-spec:
-  purpose: Exploring the Cloud 
-  locations:
-    - type: LinkedIn
-      where: https://www.linkedin.com/in/janudabethmin
-    - type: Medium
-      where: https://medium.com/@desilvabethmin
-  favorites:
-    animal: 😺
-    hobby: 📘
-```
+
+
+
+
+
+
